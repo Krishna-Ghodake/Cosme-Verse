@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 COSMOSVERSE
+# 𝒞𝒪𝒮𝑀𝒪𝒱𝐸𝑅𝒮𝐸 🔭
 
 ### *Where Curiosity Meets the Infinite Universe.*
 
