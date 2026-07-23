@@ -10,8 +10,6 @@
 
 ### 🚀 An immersive AI-powered space exploration platform designed to transform the way people learn about the universe.
 
-[🌍 Live Demo] (https://cosmo-verse.netlify.app/) • [⭐ Star this Repository](../../stargazers) • [🐛 Report Issues](../../issues)
-
 </div>
 
 ---
