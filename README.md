@@ -195,20 +195,6 @@ Future updates will introduce:
 
 ---
 
-# 📸 Preview
-
-> Add screenshots here
-
-```
-Home
-Dashboard
-Solar System
-Mission Control
-Galaxy Explorer
-```
-
----
-
 # 🚧 Roadmap
 
 - [x] Core UI
